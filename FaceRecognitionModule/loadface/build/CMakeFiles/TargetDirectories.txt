@@ -1,0 +1,3 @@
+/home/bzxg/cppWorkSpace/faceSignIn/loadface/build/CMakeFiles/rebuild_cache.dir
+/home/bzxg/cppWorkSpace/faceSignIn/loadface/build/CMakeFiles/trainFaceModel.dir
+/home/bzxg/cppWorkSpace/faceSignIn/loadface/build/CMakeFiles/edit_cache.dir

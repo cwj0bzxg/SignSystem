@@ -1,0 +1,3 @@
+/home/bzxg/cppWorkSpace/faceSignIn/client/build/CMakeFiles/rebuild_cache.dir
+/home/bzxg/cppWorkSpace/faceSignIn/client/build/CMakeFiles/faceSignIn.dir
+/home/bzxg/cppWorkSpace/faceSignIn/client/build/CMakeFiles/edit_cache.dir

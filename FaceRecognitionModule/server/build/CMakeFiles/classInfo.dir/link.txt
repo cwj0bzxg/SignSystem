@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/classInfo.dir/classInfo.cpp.o CMakeFiles/classInfo.dir/tinyMysqlLib/tinyMysql.cpp.o  -o classInfo -lboost_filesystem -lboost_system -lmysqlclient 
